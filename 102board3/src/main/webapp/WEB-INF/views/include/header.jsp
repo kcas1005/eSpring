@@ -14,25 +14,25 @@
 <body>
 
 <div class="header">
-  <h1>My Website</h1>
-  <p>A website created by me.</p>
+  <h1>연습용 홈페이지</h1>
+  <p>복습하기 위한.</p>
 </div>
 
 <div class="navbar">
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#">Link</a>
-  <a href="#" class="right">Link</a>
+  <a href="#">홈</a>
+  <a href="#">게시판</a>
+  <a href="#">구현안됨</a>
+  <a href="#" class="right">구현안됨</a>
 </div>
 
 <div class="row">
   <div class="side">
-    <h2>About Me</h2>
-    <h5>Photo of me:</h5>
+    <h2>홈페이지 소개</h2>
+    <h5>사진</h5>
     <div class="fakeimg" style="height:200px;">Image</div>
-    <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-    <h3>More Text</h3>
-    <p>Lorem ipsum dolor sit ame.</p>
+    <p>사진 정보에 대한 내용</p>
+    <h3>이야기 거리</h3>
+    <p>다른 사진</p>
     <div class="fakeimg" style="height:60px;">Image</div><br>
     <div class="fakeimg" style="height:60px;">Image</div><br>
     <div class="fakeimg" style="height:60px;">Image</div>

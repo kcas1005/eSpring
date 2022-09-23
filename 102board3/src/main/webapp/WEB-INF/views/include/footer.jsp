@@ -3,7 +3,7 @@
 </div>
 
 <div class="footer">
-  <h2>Footer</h2>
+  <h2>푸터 구현예정</h2>
 </div>
 
 </body>
